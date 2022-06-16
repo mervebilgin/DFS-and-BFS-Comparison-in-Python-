@@ -7,11 +7,17 @@ from BFSfile import BFS
 ```
 [Breadth-First Search](https://favtutor.com/blogs/breadth-first-search-python#:~:text=Breadth%2DFirst%20Search%20is%20a,graph%20is%20almost%20the%20same.) is a recursive algorithm to search all the vertices of a graph or a tree. BFS in python can be implemented by using data structures like a dictionary and lists. Breadth-First Search in tree and graph is almost the same.
 
+![BFS](https://user-images.githubusercontent.com/47225405/174048178-c1749677-3aaf-42af-ae4f-81451372332e.png)
+![BFS2](https://user-images.githubusercontent.com/47225405/174048383-3e225131-0f12-4dd4-80cf-f05df2cdc328.png)
+
 ### DFS (Depth First Search):
 ```
 from DFSFile import DFS
 ```
 Traversal means that visiting all the nodes of a graph which can be done through Depth-first search or Breadth-first search in python. Depth-first traversal or [Depth-first Search](https://favtutor.com/blogs/depth-first-search-python#:~:text=Traversal%20means%20that%20visiting%20all,graph%20or%20tree%20data%20structure.) is an algorithm to look at all the vertices of a graph or tree data structure.
+
+![DFS1](https://user-images.githubusercontent.com/47225405/174048858-0564d334-4df7-4797-8cad-8604ffd7a96f.png)
+![DFS2](https://user-images.githubusercontent.com/47225405/174048868-f8f92690-1f38-4385-857e-5260af24ecda.png)
 
 ### Pyamaze:
 ```
@@ -31,7 +37,6 @@ Python timeit() is a method in Python library to measure the execution time take
 + from pyamaze import maze, agent, COLOR, textLabel
 + from timeit import timeit
 ```
-
 ```diff
 + m=maze(15,20) 
 ```
@@ -118,10 +123,5 @@ Python timeit() is a method in Python library to measure the execution time take
 # the function run to run the simulation
 ```
 
-
-
-
-
-
-
+![Adsız tasarım (1)](https://user-images.githubusercontent.com/47225405/174049980-787820f5-c1cb-449e-bb96-2aaa73753fe2.png)
 
